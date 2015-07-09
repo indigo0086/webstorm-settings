@@ -1,0 +1,143 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden-acceptance-specs.js" timestamp="1436150481210">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1435946607660">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/git-greenthumb/bin/gth.js" timestamp="1435791230381">
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="[" line="7" column="25" />
+      </file>
+      <file name="/a.dummy" timestamp="1436156611469">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden-specs.js" timestamp="1436408471879">
+        <mark key="]" line="50" column="2" />
+        <mark key="^" line="50" column="2" />
+        <mark key="." line="50" column="2" />
+        <mark key="[" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/init-specs.js" timestamp="1435791480595">
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="[" line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/init.js" timestamp="1435791237094">
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="[" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden.js" timestamp="1436156463355">
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/git-greenthumb/gulpfile.js" timestamp="1435946999667">
+        <mark key="'" line="3" column="0" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="10" column="19" />
+        <mark key="[" line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/git-greenthumb/bin/gth-spec.js" timestamp="1435947323966">
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/git-greenthumb/gulpfile.js" />
+      <jump line="9" column="33" filename="$USER_HOME$/Projects/git-greenthumb/bin/gth-spec.js" />
+      <jump line="4" column="4" filename="$USER_HOME$/Projects/git-greenthumb/bin/gth-spec.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden-specs.js" />
+      <jump line="26" column="4" filename="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden-specs.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden-specs.js" />
+    </jumps>
+    <registers>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhdXRoU3B5ID0gc2lub24uc3B5KEdpdEh1YkFwaS5wcm90b3R5cGUsICdhdXRoZW50aWNhdGUnKTsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="0" type="4">
+        <text>authenticate</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJW8nLCBnaXRodWIuYXV0aGVudGljYXRlKTsK</text>
+      </register>
+      <register name="6" type="4">
+        <text>spy</text>
+      </register>
+      <register name="5" type="4">
+        <text>authSpy</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhdXRoU3R1YiA9IHNpbm9uLnN0dWIoR2l0SHViQXBpLnByb3RvdHlwZSwgJ2F1dGhlbnRpY2F0ZScpOwo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>)</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dGhTcHkuc2hvdWxkLmhhdmUuYmVlbi5jYWxsZWRPbmNlOwo=</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxwYXRoXD4=</text>
+      </register>
+      <register name="-" type="4">
+        <text>authSpy</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxwYXRoXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxwYXRoXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>Moch</entry>
+        <entry encoding="base64">XDxwYXRoXD4=</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
