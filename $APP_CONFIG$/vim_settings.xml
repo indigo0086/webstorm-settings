@@ -54,10 +54,11 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/react-es6-project/app.jsx" timestamp="1436741758237">
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Projects/react-es6-project/app.jsx" timestamp="1436743023814">
+        <mark key="]" line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="[" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/git-greenthumb/bin/gth.js" timestamp="1435791230381">
         <mark key="]" line="7" column="0" />
@@ -90,46 +91,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>/</text>
+        <text>isRequired</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYW5zZm9ybSBmcm9tICd2aW55bC10cmFuc2Zvcm0nCg==</text>
+        <text encoding="base64">ICAgIGNpdHk6IFJlYWN0LlByb3BUeXBlcy5zdHJpZywK</text>
       </register>
       <register name="2" type="4">
-        <text>build</text>
+        <text>.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYW5zZm9ybSBmcm9tICd2aW55bC10cmFuc2Zvcm0nCg==</text>
+        <text encoding="base64">ICAgIGNpdHk6IFJlYWN0LlByb3BUeXBlcy5zdHJpZywK</text>
       </register>
-      <register name="0" type="4">
-        <text>authenticate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBodW1pZGl0eTogUmVhY3QuUHJvcFR5cGVzLm51bWJlci5pc1JlcXVpcmVkLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>d</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA6IFJlYWN0LlByb3BUeXBlcy5udW1iZXIuaXNSZXF1aXJlZCwK</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>.isRequired</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>temperature</text>
       </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text>humidity</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
