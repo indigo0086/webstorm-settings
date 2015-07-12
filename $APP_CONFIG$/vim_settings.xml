@@ -35,11 +35,11 @@
       <file name="/a.dummy" timestamp="1436156611469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/react-es6-project/gulpfile.babel.js" timestamp="1436731929022">
-        <mark key="]" line="7" column="26" />
-        <mark key="^" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-        <mark key="[" line="7" column="29" />
+      <file name="$USER_HOME$/Projects/react-es6-project/gulpfile.babel.js" timestamp="1436738609324">
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/git-greenthumb/gulpfile.js" timestamp="1435946999667">
         <mark key="'" line="3" column="0" />
@@ -85,46 +85,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>s</text>
-      </register>
-      <register name="&quot;" type="4">
         <text>/</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHRyYW5zZm9ybSBmcm9tICd2aW55bC10cmFuc2Zvcm0nCg==</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>build</text>
       </register>
-      <register name="1" type="4">
-        <text>/</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHRyYW5zZm9ybSBmcm9tICd2aW55bC10cmFuc2Zvcm0nCg==</text>
       </register>
       <register name="0" type="4">
         <text>authenticate</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
-      </register>
-      <register name="6" type="4">
-        <text>/</text>
-      </register>
-      <register name="5" type="4">
         <text>d</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>i</text>
+      </register>
+      <register name="5" type="4">
+        <text>s</text>
+      </register>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAucGlwZShzb3VyY2UoJy4vYXBwLmpzJykpCiAgICAgICAgLnBpcGUoKTsK</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>build</text>
       </register>
     </registers>
     <search>
