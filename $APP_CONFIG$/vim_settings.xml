@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/react-es6-project/index.html" timestamp="1436710092233">
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/react-es6-project/gulpfile.js" timestamp="1436708695712">
         <mark key="]" line="2" column="7" />
         <mark key="^" line="2" column="7" />
@@ -14,17 +19,11 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1435946607660">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/git-greenthumb/bin/gth.js" timestamp="1435791230381">
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="[" line="7" column="25" />
-      </file>
-      <file name="/a.dummy" timestamp="1436156611469">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/init-specs.js" timestamp="1435791480595">
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="[" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden-specs.js" timestamp="1436568335956">
         <mark key="]" line="49" column="2" />
@@ -32,22 +31,14 @@
         <mark key="." line="22" column="52" />
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/init-specs.js" timestamp="1435791480595">
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="[" line="5" column="10" />
+      <file name="/a.dummy" timestamp="1436156611469">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/init.js" timestamp="1435791237094">
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="[" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden.js" timestamp="1436156463355">
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/Projects/react-es6-project/gulpfile.babel.js" timestamp="1436710858417">
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/git-greenthumb/gulpfile.js" timestamp="1435946999667">
         <mark key="'" line="3" column="0" />
@@ -62,6 +53,26 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/git-greenthumb/bin/gth.js" timestamp="1435791230381">
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="[" line="7" column="25" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1435946607660">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/init.js" timestamp="1435791237094">
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="[" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden.js" timestamp="1436156463355">
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="$USER_HOME$/Projects/git-greenthumb/gulpfile.js" />
@@ -72,44 +83,44 @@
       <jump line="33" column="0" filename="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden-specs.js" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhdXRoU3B5ID0gc2lub24uc3B5KEdpdEh1YkFwaS5wcm90b3R5cGUsICdhdXRoZW50aWNhdGUnKTsK</text>
+      <register name="3" type="4">
+        <text>i</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>f</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>y</text>
       </register>
       <register name="0" type="4">
         <text>authenticate</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJW8nLCBnaXRodWIuYXV0aGVudGljYXRlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>spy</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>authSpy</text>
+      <register name="5" type="2">
+        <text encoding="base64">Lgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text encoding="base64">aWZ5IA==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhdXRoU3R1YiA9IHNpbm9uLnN0dWIoR2l0SHViQXBpLnByb3RvdHlwZSwgJ2F1dGhlbnRpY2F0ZScpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dGhTcHkuc2hvdWxkLmhhdmUuYmVlbi5jYWxsZWRPbmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhdXRoU3B5ID0gc2lub24uc3B5KEdpdEh1YkFwaS5wcm90b3R5cGUsICdhdXRoZW50aWNhdGUnKTsK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>authSpy</text>
+        <text>y</text>
       </register>
     </registers>
     <search>
@@ -146,6 +157,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
