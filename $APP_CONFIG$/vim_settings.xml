@@ -34,11 +34,11 @@
       <file name="/a.dummy" timestamp="1436156611469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/react-es6-project/gulpfile.babel.js" timestamp="1436730470881">
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="14" column="0" />
-        <mark key="[" line="12" column="27" />
+      <file name="$USER_HOME$/Projects/react-es6-project/gulpfile.babel.js" timestamp="1436731929022">
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="[" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/git-greenthumb/gulpfile.js" timestamp="1435946999667">
         <mark key="'" line="3" column="0" />
@@ -84,46 +84,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text encoding="base64">ID0=</text>
+        <text>s</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAucGlwZShzb3VyY2UoJy4vYXBwLmpzJykpCiAgICAgICAgLnBpcGUoKTsK</text>
+      <register name="2" type="4">
+        <text>t</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
       <register name="0" type="4">
         <text>authenticate</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGd1bHAuc3JjKCcuYXBwLmpzJykKICAgICAgICAgICAgLnBpcGUoYikK</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBjID0gewogICAgICAgIHRlc3RpbmcKICAgIH07dQo=</text>
+      <register name="6" type="4">
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="4" type="4">
-        <text>=</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>f</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAucGlwZShzb3VyY2UoJy4vYXBwLmpzJykpCiAgICAgICAgLnBpcGUoKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>y</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoXD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0=</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
