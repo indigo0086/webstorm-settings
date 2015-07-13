@@ -15,6 +15,13 @@
         <mark key="." line="2" column="7" />
         <mark key="[" line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/react-es6-project/components/WeatherIndicator.jsx" timestamp="1436746860672">
+        <mark key="'" line="13" column="21" />
+        <mark key="]" line="10" column="103" />
+        <mark key="^" line="10" column="103" />
+        <mark key="." line="10" column="103" />
+        <mark key="[" line="10" column="63" />
+      </file>
       <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden-acceptance-specs.js" timestamp="1436150481210">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -54,11 +61,10 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/react-es6-project/app.jsx" timestamp="1436743023814">
-        <mark key="]" line="16" column="17" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="16" column="17" />
-        <mark key="[" line="16" column="18" />
+      <file name="$USER_HOME$/Projects/react-es6-project/app.jsx" timestamp="1436743329755">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/git-greenthumb/bin/gth.js" timestamp="1435791230381">
         <mark key="]" line="7" column="0" />
@@ -88,65 +94,74 @@
       <jump line="7" column="0" filename="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden-specs.js" />
       <jump line="26" column="4" filename="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden-specs.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden-specs.js" />
+      <jump line="0" column="16" filename="$USER_HOME$/Projects/react-es6-project/app.jsx" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/react-es6-project/components/WeatherIndicator.jsx" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/react-es6-project/components/WeatherIndicator.jsx" />
+      <jump line="13" column="21" filename="$USER_HOME$/Projects/react-es6-project/components/WeatherIndicator.jsx" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>isRequired</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHByb3BzIH0gPSB0aGlzOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNpdHk6IFJlYWN0LlByb3BUeXBlcy5zdHJpZywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgICAgPGRpdj48L2Rpdj4KICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNpdHk6IFJlYWN0LlByb3BUeXBlcy5zdHJpZywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBodW1pZGl0eTogUmVhY3QuUHJvcFR5cGVzLm51bWJlci5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHN0YXRlLCBjaXR5LCB3ZWF0aGVyfSA9IHRoaXMucHJvcHM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6IFJlYWN0LlByb3BUeXBlcy5udW1iZXIuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JwoKY2xhc3MgV2VhdGhlckluZGljYXRvciBleHRlbmRzIENvbXBvbmVudCB7Cgp9CgpXZWF0aGVySW5kaWNhdG9yLnByb3BUeXBlcyA9IHsKICAgIHN0YXRlOiBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCiAgICBjaXR5OiBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nLAogICAgd2VhdGhlcjogUmVhY3QuUHJvcFR5cGVzLnNoYXBlKHsKICAgICAgICB0ZW1wZXJhdHVyZTogUmVhY3QuUHJvcFR5cGVzLm51bWJlci5pc1JlcXVpcmVkLAogICAgICAgIGh1bWlkaXR5OiBSZWFjdC5Qcm9wVHlwZXMubnVtYmVyLAogICAgICAgIHJhaW5DaGFuY2U6IFJlYWN0LlByb3RvdHlwZXMubnVtYmVyCiAgICB9KQp9CgpleHBvcnQgZGVmYXVsdCBEb2cK</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>Dog</text>
       </register>
-      <register name="5" type="4">
-        <text>.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByYWluQ2hhbmNlOiBSZWFjdC5Qcm90b3R5cGVzLm51bWJlcgo=</text>
       </register>
       <register name="4" type="4">
-        <text>.isRequired</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz4lcy9cIi9cJy9n</text>
       </register>
       <register name="9" type="4">
-        <text>temperature</text>
+        <text>.</text>
       </register>
-      <register name="8" type="4">
-        <text>humidity</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNpdHk6IFJlYWN0LlByb3BUeXBlcy5zdHJpZywK</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXRoXD4=</text>
+        <text encoding="base64">XDxzdHJvbmdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXRoXD4=</last-search>
+      <last-search encoding="base64">XDxzdHJvbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXRoXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxzdHJvbmdcPg==</last-pattern>
+      <last-replace>\'</last-replace>
+      <last-substitute>\&quot;</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>Moch</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
+        <entry>\&quot;</entry>
+        <entry encoding="base64">XDxzdHJvbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz4lcy9cIi9cJy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
