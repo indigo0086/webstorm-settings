@@ -15,12 +15,12 @@
         <mark key="." line="2" column="7" />
         <mark key="[" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/react-es6-project/components/WeatherIndicator.jsx" timestamp="1436746860672">
+      <file name="$USER_HOME$/Projects/react-es6-project/components/WeatherIndicator.jsx" timestamp="1436750345511">
         <mark key="'" line="13" column="21" />
-        <mark key="]" line="10" column="103" />
-        <mark key="^" line="10" column="103" />
-        <mark key="." line="10" column="103" />
-        <mark key="[" line="10" column="63" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="[" line="10" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/garden-acceptance-specs.js" timestamp="1436150481210">
         <mark key="]" line="0" column="0" />
@@ -61,11 +61,6 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/react-es6-project/app.jsx" timestamp="1436743329755">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/git-greenthumb/bin/gth.js" timestamp="1435791230381">
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
@@ -73,6 +68,11 @@
         <mark key="[" line="7" column="25" />
       </file>
       <file name="/JavaScript Console" timestamp="1435946607660">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/react-es6-project/app.jsx" timestamp="1436743329755">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/init.js" timestamp="1435791237094">
