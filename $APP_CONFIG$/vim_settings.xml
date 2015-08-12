@@ -92,6 +92,17 @@
         <mark key="." line="4" column="28" />
         <mark key="[" line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/squares-prototype/src/index.html" timestamp="1439347671780">
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/squares-prototype/src/app.js" timestamp="1439347788556">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="$USER_HOME$/Projects/git-greenthumb/gulpfile.js" />
@@ -106,47 +117,47 @@
       <jump line="13" column="21" filename="$USER_HOME$/Projects/react-es6-project/components/WeatherIndicator.jsx" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHByb3BzIH0gPSB0aGlzOwo=</text>
+      <register name="3" type="4">
+        <text>Document</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYW5ndWxhciA9IHJlcXVpcmUoJ2FuZ3VsYXInKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgICAgPGRpdj48L2Rpdj4KICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYW5ndWxhciA9IHJlcXVpcmUoJ2FuZ3VsYXInKTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCB7IHN0YXRlLCBjaXR5LCB3ZWF0aGVyfSA9IHRoaXMucHJvcHM7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JwoKY2xhc3MgV2VhdGhlckluZGljYXRvciBleHRlbmRzIENvbXBvbmVudCB7Cgp9CgpXZWF0aGVySW5kaWNhdG9yLnByb3BUeXBlcyA9IHsKICAgIHN0YXRlOiBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCiAgICBjaXR5OiBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nLAogICAgd2VhdGhlcjogUmVhY3QuUHJvcFR5cGVzLnNoYXBlKHsKICAgICAgICB0ZW1wZXJhdHVyZTogUmVhY3QuUHJvcFR5cGVzLm51bWJlci5pc1JlcXVpcmVkLAogICAgICAgIGh1bWlkaXR5OiBSZWFjdC5Qcm9wVHlwZXMubnVtYmVyLAogICAgICAgIHJhaW5DaGFuY2U6IFJlYWN0LlByb3RvdHlwZXMubnVtYmVyCiAgICB9KQp9CgpleHBvcnQgZGVmYXVsdCBEb2cK</text>
+      <register name="7" type="4">
+        <text>,</text>
       </register>
-      <register name="6" type="4">
-        <text>Dog</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHByb3BzIH0gPSB0aGlzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWluQ2hhbmNlOiBSZWFjdC5Qcm90b3R5cGVzLm51bWJlcgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgICAgPGRpdj48L2Rpdj4KICAgICkK</text>
       </register>
-      <register name="4" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9cIi9cJy9n</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>Dog</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNpdHk6IFJlYWN0LlByb3BUeXBlcy5zdHJpZywK</text>
+        <text encoding="base64">ICAgICAgICByYWluQ2hhbmNlOiBSZWFjdC5Qcm90b3R5cGVzLm51bWJlcgo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJvbmdcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Document</text>
       </register>
     </registers>
     <search>
