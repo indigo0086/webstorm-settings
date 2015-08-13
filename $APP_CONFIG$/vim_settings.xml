@@ -61,6 +61,11 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/react-es6-project/app.jsx" timestamp="1436743329755">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/git-greenthumb/bin/gth.js" timestamp="1435791230381">
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
@@ -68,11 +73,6 @@
         <mark key="[" line="7" column="25" />
       </file>
       <file name="/JavaScript Console" timestamp="1435946607660">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/react-es6-project/app.jsx" timestamp="1436743329755">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/git-greenthumb/lib/commands/init.js" timestamp="1435791237094">
@@ -92,17 +92,17 @@
         <mark key="." line="4" column="28" />
         <mark key="[" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/squares-prototype/src/index.html" timestamp="1439347671780">
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="[" line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/squares-prototype/src/app.js" timestamp="1439347795710">
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/squares-prototype/src/index.html" timestamp="1439347671780">
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="[" line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -118,11 +118,11 @@
       <jump line="13" column="21" filename="$USER_HOME$/Projects/react-es6-project/components/WeatherIndicator.jsx" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>Document</text>
-      </register>
       <register name="&quot;" type="2">
         <text encoding="base64">Y29uc3QgYW5ndWxhciA9IHJlcXVpcmUoJ2FuZ3VsYXInKTsK</text>
+      </register>
+      <register name="3" type="4">
+        <text>Document</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
